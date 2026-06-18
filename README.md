@@ -1,4 +1,4 @@
-##💫 About Me:
+# 💫 About Me:
 🎓 M.Sc. Electronic Design Technology @ University of Siegen  <br>🔬 Embedded Systems | FPGA | Code Generation | Hardware-Software Co-Design  <br>📄 Published researcher at AIP (American Institute of Physics)  <br>💼 Ex-Infosys Digital Specialist Engineer | 1+ year production backend experience  <br>📍 Siegen, Germany<br><br>🔍 Currently seeking a Master's Thesis, Working Student role, or Internship in Embedded Systems  <br>🚀 Aspiring to build a long-term career in Embedded Software Engineering — focusing on runtime systems, scheduling, and hardware-software co-design
 
 
